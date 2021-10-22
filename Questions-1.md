@@ -9,4 +9,7 @@
 6. [[什么是FLP impossibility?]]
 7. [[死锁的4个必要条件]]
 8. [[spring事务传播机制]]
-9. [[happens before规则]]
+9. [[spring事务的4大特性]]
+10. [[spring事务的隔离级别]]
+11. [[spring事务的传播机制]]
+12. [[happens before规则]]
