@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "51415c8ec0505288",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5968acc1694b7f3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Questions-1.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ffc786f36a8d3c10",
+    "type": "split",
+    "children": [
+      {
+        "id": "666983ec8d39a686",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e4757088e5ed8ac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1ca49a162b359d99",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ba3ed40b6f421a76",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3a4415618aaaa32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "469e0ab09f222f5a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Questions-1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b5968acc1694b7f3",
+  "lastOpenFiles": [
+    "Questions-1.md",
+    "Answers-1/常见线程池模型.md"
+  ]
+}
