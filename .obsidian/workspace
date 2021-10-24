@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Answers-1/事务的隔离级别.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Answers-1/事务的隔离级别.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "d08af4854a52a8b6",
   "lastOpenFiles": [
-    "Answers-1/事务的隔离级别.md",
-    "Answers-1/happens before规则.md",
-    "Answers-1/内存泄漏,堆内存缓慢上涨,触发fullGC,如何快速定位?.md",
+    "README.md",
+    "4.概念原理/SOLID原则.md",
+    "4.概念原理/Fork-join模型和实现.md",
+    "SOLID原则.md",
+    "4.概念原理/4.目录.md",
+    "ThreadLocal是什么?.md",
+    "3.Java/3.目录.md",
     "Questions-1.md",
-    "Answers-1/事务的传播机制.md",
-    "Answers-1/事务的4大特性.md",
-    "Answers-1/CAP定理.md",
-    "Answers-1/死锁的4个必要条件.md",
-    "Answers-1/spring事务的传播机制.md",
-    "test.md"
+    "5.Redis/5.目录.md",
+    "4.分布式/4.目录.md"
   ]
 }
