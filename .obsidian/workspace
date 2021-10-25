@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1.概念原理/什么是一致性哈希?.md",
+            "file": "7.设计实现/分布式限流器 限制1s钟10万次请求,怎么实现的?.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "跳表",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.概念原理/什么是一致性哈希?.md",
+                "file": "7.设计实现/分布式限流器 限制1s钟10万次请求,怎么实现的?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "22e3fbbca75d11ad",
   "lastOpenFiles": [
-    "1.概念原理/什么是一致性哈希?.md",
+    "分布式限流器 限制1s钟10万次请求,怎么实现的?.md",
+    "Untitled.md",
     "1.概念原理/CAP定理.md",
+    "4.数据库/跳表和树.md",
+    "4.数据库/4.目录.md",
+    "4.数据库/跳表和B+树.md",
+    "1.概念原理/什么是一致性哈希?.md",
     "1.概念原理/什么是FLP impossibility?.md",
     "1.概念原理/1.目录.md",
-    "README.md",
-    "1.概念原理/Asserts/Pasted image 20211024144236.png",
-    "1.概念原理/4.目录.md",
-    "4.数据库/1.目录.md",
-    "4.概念原理/Fork-join模型和实现.md",
-    "4.概念原理/CAP定理.md"
+    "README.md"
   ]
 }
