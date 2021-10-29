@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "7.设计实现/分布式限流器 限制1s钟10万次请求,怎么实现的?.md",
+            "file": "1.概念原理/CPU负载跟使用率什么区别.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7.设计实现/分布式限流器 限制1s钟10万次请求,怎么实现的?.md",
+                "file": "1.概念原理/CPU负载跟使用率什么区别.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "22e3fbbca75d11ad",
   "lastOpenFiles": [
-    "分布式限流器 限制1s钟10万次请求,怎么实现的?.md",
-    "Untitled.md",
-    "1.概念原理/CAP定理.md",
-    "4.数据库/跳表和树.md",
-    "4.数据库/4.目录.md",
-    "4.数据库/跳表和B+树.md",
-    "1.概念原理/什么是一致性哈希?.md",
-    "1.概念原理/什么是FLP impossibility?.md",
+    "1.概念原理/CPU负载跟使用率什么区别.md",
     "1.概念原理/1.目录.md",
-    "README.md"
+    "8.Kafka/怎么防重复消费?.md",
+    "8.Kafka/8.目录.md",
+    "8.Kafka/kafka怎么保证消息不丢失的?.md",
+    "5.Redis/redis的数据结构.md",
+    "5.Redis/5.目录.md",
+    "5.Redis/缓存雪崩、击穿、穿透，该如何避免？.md",
+    "2.Spring/Spring中Bean的生命周期是怎样的？.md",
+    "7.设计实现/分布式限流器 限制1s钟10万次请求,怎么实现的?.md"
   ]
 }
