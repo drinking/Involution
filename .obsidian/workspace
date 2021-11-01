@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1.概念原理/如何实现跨域访问?.md",
+            "file": "8.Kafka/kafka怎么保证消息不丢失的?.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.概念原理/如何实现跨域访问?.md",
+                "file": "8.Kafka/kafka怎么保证消息不丢失的?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "22e3fbbca75d11ad",
   "lastOpenFiles": [
-    "如何实现跨域访问?.md",
+    "8.Kafka/kafka怎么保证消息不丢失的?.md",
+    "1.概念原理/认证安全.md",
     "1.概念原理/1.目录.md",
+    "1.概念原理/如何实现跨域访问?.md",
+    "如何实现跨域访问?.md",
     "README.md",
     "1.概念原理/CPU负载跟使用率什么区别.md",
     "8.Kafka/怎么防重复消费?.md",
     "8.Kafka/8.目录.md",
-    "8.Kafka/kafka怎么保证消息不丢失的?.md",
-    "5.Redis/redis的数据结构.md",
-    "5.Redis/5.目录.md",
-    "5.Redis/缓存雪崩、击穿、穿透，该如何避免？.md"
+    "5.Redis/redis的数据结构.md"
   ]
 }
