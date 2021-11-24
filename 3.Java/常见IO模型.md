@@ -12,6 +12,8 @@ select多路复用的流程
 ![[Pasted image 20211107141531.png]]
 
 ## 多路复用实现方案比较
+epoll流程图
+![[Pasted image 20211107221357.png]]
 
 ### epoll相比select的优点
 
@@ -36,6 +38,6 @@ select多路复用的流程
 - [深入拆解Tomcat&Jetty(十一)](https://juejin.cn/post/6844903708979904526)
 - [深度解读Tomcat中的NIO模型](https://www.jianshu.com/p/76ff17bc6dea)
 - [[彻底学会使用epoll(一)——ET模式实现分析](http://blog.chinaunix.net/uid-28541347-id-4273856.html)](http://blog.chinaunix.net/uid-28541347-id-4273856.html)
-- [ [Linux下的I/O复用与epoll详解](https://www.cnblogs.com/lojunren/p/3856290.html)](https://www.cnblogs.com/lojunren/p/3856290.html)
+- [Linux下的I/O复用与epoll详解](https://www.cnblogs.com/lojunren/p/3856290.html)]
 - [epoll manual page](https://man7.org/linux/man-pages/man7/epoll.7.html)
 - [Epoll 实现原理](https://github.com/liexusong/linux-source-code-analyze/blob/master/epoll-principle.md)
